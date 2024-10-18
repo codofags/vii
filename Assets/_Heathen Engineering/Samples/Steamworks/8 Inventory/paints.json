@@ -1,0 +1,89 @@
+{
+    "appid": 3172090,
+    "items": [
+        {
+            "itemdefid": 101,
+            "type": "item",
+            "name": "Red Color",
+            "description": "A bright red color.",
+            "price": "1;USD0.99",
+            "name_color": "FF0000",
+            "background_color": "3C352E",
+            "item_slot": "decoration",
+            "icon_url": "https://gracious-curran.92-205-178-248.plesk.page/Frame%2014.png",
+            "icon_url_large": "https://gracious-curran.92-205-178-248.plesk.page/Frame%2014.png",
+            "tradable": true,
+            "marketable": true
+        },
+        {
+            "itemdefid": 102,
+            "type": "item",
+            "name": "Green Color",
+            "description": "A vibrant green color.",
+            "price": "1;VLV100",
+            "name_color": "00FF00",
+            "background_color": "3C352E",
+            "item_slot": "decoration",
+            "icon_url": "https://gracious-curran.92-205-178-248.plesk.page/Frame%2014.png",
+            "icon_url_large": "https://gracious-curran.92-205-178-248.plesk.page/Frame%2014.png",
+            "tradable": true,
+            "marketable": true
+        },
+        {
+            "itemdefid": 103,
+            "type": "item",
+            "name": "Yellow Color",
+            "description": "A sunny yellow color.",
+            "price": "1;VLV100",
+            "name_color": "FFFF00",
+            "background_color": "3C352E",
+            "item_slot": "decoration",
+            "icon_url": "https://gracious-curran.92-205-178-248.plesk.page/Frame%2014.png",
+            "icon_url_large": "https://gracious-curran.92-205-178-248.plesk.page/Frame%2014.png",
+            "tradable": true,
+            "marketable": true
+        },
+        {
+            "itemdefid": 104,
+            "type": "item",
+            "name": "Blue Color",
+            "description": "A cool blue color.",
+            "price": "1;VLV100",
+            "name_color": "0000FF",
+            "background_color": "3C352E",
+            "item_slot": "decoration",
+            "icon_url": "https://gracious-curran.92-205-178-248.plesk.page/Frame%2014.png",
+            "icon_url_large": "https://gracious-curran.92-205-178-248.plesk.page/Frame%2014.png",
+            "tradable": true,
+            "marketable": true
+        },
+        {
+            "itemdefid": 105,
+            "type": "item",
+            "name": "White Color",
+            "description": "A pure white color.",
+            "price": "1;VLV100",
+            "name_color": "FFFFFF",
+            "background_color": "3C352E",
+            "item_slot": "decoration",
+            "icon_url": "https://gracious-curran.92-205-178-248.plesk.page/Frame%2014.png",
+            "icon_url_large": "https://gracious-curran.92-205-178-248.plesk.page/Frame%2014.png",
+            "tradable": true,
+            "marketable": true
+        },
+        {
+            "itemdefid": 106,
+            "type": "item",
+            "name": "Black Color",
+            "description": "A deep black color.",
+            "price": "1;VLV100",
+            "name_color": "000000",
+            "background_color": "3C352E",
+            "item_slot": "decoration",
+            "icon_url": "https://gracious-curran.92-205-178-248.plesk.page/Frame%2014.png",
+            "icon_url_large": "https://gracious-curran.92-205-178-248.plesk.page/Frame%2014.png",
+            "tradable": true,
+            "marketable": true
+        }
+    ]
+}
